@@ -1,0 +1,11 @@
+.bottomSection {
+    position: relative;
+    border-left: 1px solid rgb(215, 215, 215);
+    height: 100%;
+    font-family: "Segoe UI";
+    font-size: 12px;
+    min-width: 0px;
+    overflow: hidden;
+    white-space: nowrap;
+    line-height: 22px;
+}

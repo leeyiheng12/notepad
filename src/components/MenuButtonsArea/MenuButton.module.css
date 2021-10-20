@@ -1,0 +1,21 @@
+.menuButton {
+    position: relative;
+    display: inline-block;
+    height: 17px;
+    font-size: 12px;
+    padding-left: 6px;
+    padding-right: 6px;
+    top: -2px;
+    border: 1px solid transparent;
+}
+
+.active {
+    background-color: rgb(229, 243, 255);
+    border: 1px solid rgb(153, 209, 255);
+}
+
+.menuButton:hover {
+    background-color: rgb(229, 243, 255);
+    border: 1px solid rgb(153, 209, 255);
+}
+

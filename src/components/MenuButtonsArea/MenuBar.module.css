@@ -1,0 +1,6 @@
+.menuBar {
+    font-family: "Segoe UI";
+    border-bottom: 2px solid rgb(240, 240, 240);
+    height: 19px;
+    -webkit-user-select: none;
+}

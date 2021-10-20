@@ -1,0 +1,50 @@
+.dropdownMenu {
+    background-color: rgb(242, 242, 242);
+    width: 227px;
+    border: 1px solid rgb(204, 204, 204);
+    font-size: 11.75px;
+    font-family: "Segoe UI";
+    padding: 1px;
+    filter: drop-shadow(3px 3px 1px rgb(142, 142, 142));
+}
+
+.individualOption {
+    width: 100%;
+    height: 22px;
+    line-height: 22px;
+    color: black;
+}
+
+.individualOption:hover {
+    background-color: rgb(145, 201, 247);
+}
+
+.leftText {
+    display: inline-block;
+    position: absolute;
+    left: 34px;
+}
+
+.rightText {
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+}
+
+.straightLine {
+    background-color: rgb(215, 215, 215);
+    /* background-color: black; */
+    width: 195px;
+    height: 1px;
+    margin-left: 30px;
+    border-top: 3px solid rgb(242, 242, 242);
+    border-bottom: 3px solid rgb(242, 242, 242);
+}
+
+.closing {
+    height: 1px;
+}
+
+.fontDisabled {
+    color: rgb(0, 0, 0, 0.6);
+}

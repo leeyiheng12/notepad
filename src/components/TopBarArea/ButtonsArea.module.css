@@ -1,0 +1,7 @@
+.mainArea {
+    position: relative;
+    display: inline;
+    float: right;
+    width: 135px;
+    flex-shrink: 0;
+}
