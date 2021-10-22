@@ -1,7 +1,9 @@
 # Notepad
 
-An extremely realistic copy of Windows' notepad.exe!
-Check it out [here](https://leeyiheng12.github.io/react-notepad/).
+A realistic copy of Windows' notepad.exe!
+For the non-Windows users out there who are missing out.
+
+Check it out [here](https://leeyiheng12.github.io/notepad/).
 
 ## General information
 
