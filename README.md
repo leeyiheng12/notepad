@@ -1,4 +1,4 @@
-# react-notepad
+# Notepad
 
 An extremely realistic copy of Windows' notepad.exe!
 Check it out [here](https://leeyiheng12.github.io/react-notepad/).
